@@ -18,7 +18,7 @@ body{
 }
 h1{
 	text-align: center;
-	background-color: steelblue;
+	background-color: #97c0fa;
 	color: white;
 	margin: 0;
 	font-weight: normal;
@@ -34,7 +34,7 @@ h1{
 	padding: 0;
 }
 .selected{
-	background-color: steelblue;
+	background-color: #97c0fa;
 	color: white;
 }
 #colorDisplay{
@@ -46,7 +46,7 @@ button{
 	text-transform: uppercase;
 	height: 100%;
 	font-weight:700;
-	color: steelblue;
+	color: #97c0fa;
 	letter-spacing: 1px;
 	font-size: inherit;
 	transition: all 0.5s;
@@ -54,7 +54,7 @@ button{
 }
 button:hover{
 	color: white;
-	background: steelblue;
+	background: #97c0fa;
 }
 #message{
 	display: inline-block;
